@@ -9,13 +9,13 @@ const OffsetMenu = ({offset, handleOffset}) => {
             <div className="offset-menu-wrapper text-white">
                 <div className="offset-menu-header">
                     <div className="offset-menu-logo">
-                        <Link to="/homeOne"><img src={mainLogo} alt="logo"/></Link>
+                        <Link to="#"><img src={mainLogo} alt="logo"/></Link>
                     </div>
                 </div> 
                 <div className="offset-menu-section">
                     <h3>About Us</h3>
                     <p>We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed</p>
-                    <Link to="/contact" className="theme-btn  mt-30">Consultation</Link>
+                    <Link to="#" className="theme-btn  mt-30">Consultation</Link>
                 </div>
                 <div className="offset-menu-section">
                     <h3>Contact Info</h3>
@@ -27,7 +27,7 @@ const OffsetMenu = ({offset, handleOffset}) => {
                         <li><span><i className="fal fa-clock"></i></span>Sunday: Closed</li>
                     </ul>
                 </div> 
-                <div className="offset-menu-footer">
+                {/* <div className="offset-menu-footer">
                     <div className="offset-menu-social-icon">
                         <a href="#"><i className="fab fa-facebook-f"></i></a>
                         <a href="#"><i className="fab fa-twitter"></i></a>
@@ -35,7 +35,7 @@ const OffsetMenu = ({offset, handleOffset}) => {
                         <a href="#"><i className="fab fa-dribbble"></i></a>
                         <a href="#"><i className="fab fa-youtube"></i></a>
                     </div>
-                </div>    
+                </div>     */}
             </div>               
         </div>
         </>

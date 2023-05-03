@@ -34,15 +34,10 @@ const HeaderOne = () => {
             <div className="header-right-area d-flex">
                 <div className="main-menu d-none d-xl-block">
                     <ul>
-                        <li><a href="#">Home <i className="fal fa-plus"></i></a>
-                            <ul className="sub-menu">
-                                <li><Link to="/">homepage 1</Link></li>
-                                <li><Link to="/homeTwo">homepage 2</Link></li>
-                                <li><Link to="/homeThree">homepage 3</Link></li>
-                                <li><Link to="/homeFour">homepage 4</Link></li>
-                            </ul>
+                        <li><a href="">Home</a>
+
                         </li>
-                        <li><Link to="/about">about us</Link></li>
+                        {/* <li><Link to="/about">about us</Link></li>
                         <li><Link to="/services">Services</Link></li>
                         <li><a href="#">Pages <i className="fal fa-plus"></i></a>
                             <ul className="sub-menu">
@@ -62,11 +57,11 @@ const HeaderOne = () => {
                                     <button type="submit"><i className="fal fa-search"></i></button>
                                 </form>
                             </div>
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
                 <div className="header-right-elements d-flex align-items-center justify-content-between">
-                    <Link to="/contact" className="theme-btn d-none d-sm-block">Get Free Quote</Link>
+                    <Link to="#" className="theme-btn d-none d-sm-block">Get Free Quote</Link>
                     <span onClick={handleOffset} className="side-menu-toggle d-none d-xl-block"><i className="fal fa-bars"></i></span>
                     <div className="d-inline-block ms-4 d-xl-none">
                         <div className="mobile-nav-wrap">                    
