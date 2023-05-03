@@ -6,40 +6,40 @@ const servicesOneData = [
         id: uuidv4(),
         bg: bg1,
         icon: 'blueprint',
-        title: 'Architecture',
-        desc: 'We commit ourselves to complete all projects within the timeline set with our honorable clients.',
+        title: 'Electrical Engineering Services',
+        desc: '',
     },
 
     {
         id: uuidv4(),
         bg: bg1,
         icon: 'interior-design',
-        title: 'Interior Design',
-        desc: 'We commit ourselves to complete all projects within the timeline set with our honorable clients.',
+        title: 'Fire Protection Services',
+        desc: '',
     },
 
     {
         id: uuidv4(),
         bg: bg1,
         icon: 'home',
-        title: 'Home Decoration',
-        desc: 'We commit ourselves to complete all projects within the timeline set with our honorable clients.',
+        title: ' ACMV Services Mechanical',
+        desc: '',
     },
 
     {
         id: uuidv4(),
         bg: bg1,
         icon: 'varnish',
-        title: 'Repair & Painting',
-        desc: 'We commit ourselves to complete all projects within the timeline set with our honorable clients.',
+        title: 'Plumbling Services',
+        desc: '',
     },
 
     {
         id: uuidv4(),
         bg: bg1,
-        icon: 'sketch-1',
-        title: 'Sketching',
-        desc: 'We commit ourselves to complete all projects within the timeline set with our honorable clients.',
+        icon: 'home',
+        title: 'Mechanical Engineering',
+        desc: '',
     },
     
 ]

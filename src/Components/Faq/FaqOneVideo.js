@@ -27,7 +27,7 @@ const FaqOneVideo = () => {
                 </div>
                 <div className="content-text">
                     <span>Call for support</span>
-                    <h3>(555) 548 201 520</h3>
+                    <h3>(65) xxx xxx</h3>
                 </div>
             </div>
         </>

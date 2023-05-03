@@ -62,7 +62,7 @@ const ContactPageContents = () => {
                                 </div>
                                 <div className="text">
                                     <span>Call Us</span>
-                                    <h5>+673 853 605 985</h5>
+                                    <h5>+65 xxx xxx</h5>
                                 </div>
                             </div>
                             <div className="single-info">
@@ -71,7 +71,7 @@ const ContactPageContents = () => {
                                 </div>
                                 <div className="text">
                                     <span>Location</span>
-                                    <h5>4821 Mainer St NY, USA</h5>
+                                    <h5>Singapore</h5>
                                 </div>
                             </div>
                         </div>

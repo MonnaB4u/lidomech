@@ -17,19 +17,19 @@ const HomeOne = () => {
     return (
         <>
         <HeaderOne/>
-        <HeroSocials/>
-        <HeroOne/>
-        <WorkProcess/>
+        {/* <HeroSocials/> */}
+        {/* <HeroOne/> */}
+        {/* <WorkProcess/> */}
         <AboutOne/>
         <ServicesOne/>
         <CtaOne/>
-        <FeaturesOne/>
-        <BrandCarouselOne/>
-        <TestimonialOne/>
-        <PortfolioOne/>
-        <TeamOne/>
+        {/* <FeaturesOne/> */}
+        {/* <BrandCarouselOne/> */}
+        {/* <TestimonialOne/> */}
+        {/* <PortfolioOne/> */}
+        {/* <TeamOne/> */}
         <FaqOne/>
-        <BlogOne/>
+        {/* <BlogOne/> */}
         <FooterOne/>
         </>
     )

@@ -22,8 +22,7 @@ const FooterOne = () => {
                                                 <i className="fal fa-phone"></i>
                                             </div>
                                             <div className="contact-info">
-                                                <p>+673 853 605 985</p>
-                                                <p>908 9098 987 98</p>
+                                                <p>+65 xxx xxx</p>
                                             </div>
                                         </div>
                                         <div className="single-contact-info">
@@ -32,7 +31,6 @@ const FooterOne = () => {
                                             </div>
                                             <div className="contact-info">
                                                 <p>info@example.com</p>
-                                                <p>info@webexample.com</p>
                                             </div>
                                         </div>
                                         <div className="single-contact-info">
@@ -40,15 +38,14 @@ const FooterOne = () => {
                                                 <i className="fal fa-map-marker-alt"></i>
                                             </div>
                                             <div className="contact-info">
-                                                <p>7300-7398 Colonial Rd, Brooklyn, <br/>
-                                                    NY 11209</p>
+                                                <p>Singapore Address</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
 
-                            <div className="col-sm-6 offset-xl-1 col-xl-3 ps-xl-5 col-12">
+                            {/* <div className="col-sm-6 offset-xl-1 col-xl-3 ps-xl-5 col-12">
                                 <div className="single-footer-wid">
                                     <div className="wid-title">
                                         <h3>Quick Links</h3>
@@ -62,9 +59,9 @@ const FooterOne = () => {
                                         <li><Link to="/contact">Payment Getway</Link></li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="col-sm-6 col-xl-4 offset-xl-1 col-12">                        
+                            {/* <div className="col-sm-6 col-xl-4 offset-xl-1 col-12">                        
                                 <div className="single-footer-wid newsletter_widget">
                                     <div className="wid-title">
                                         <h3>Newsletter</h3>
@@ -78,12 +75,12 @@ const FooterOne = () => {
                                         <p>Opening Hours : <b> Mon - Fri:  9:30 AM - 10 PM</b></p>
                                     </div>
                                 </div>
-                            </div> 
+                            </div>  */}
                         </div>
                     </div>
                 </div>
 
-                <FooterCta/>
+                {/* <FooterCta/> */}
                 <FooterOneCopyrights/>
             </footer> 
         </>

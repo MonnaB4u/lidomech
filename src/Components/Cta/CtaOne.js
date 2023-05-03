@@ -8,11 +8,11 @@ const CtaOne = () => {
                     <div className="col-md-8 col-xl-7 offset-xl-1 col-12">
                         <div className="cta-text align-items-center d-md-flex text-center text-md-start">
                             <i className="flaticon-email"></i>
-                            <h2>Looking for a quality Architect  for your project?</h2>
+                            <h2>Looking for a quality Engineering  for your project?</h2>
                         </div>
                     </div>
                     <div className="col-md-4 text-center text-md-end">
-                        <Link to="/contact" className="theme-btn border-btn text-center">Get a Free Quote</Link>
+                        <div className="theme-btn border-btn text-center"><a href="https://wa.me/">Whatsapp</a></div>
                     </div>
                 </div>
             </div>
