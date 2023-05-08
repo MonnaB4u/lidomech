@@ -22,7 +22,7 @@ const FooterOne = () => {
                                                 <i className="fal fa-phone"></i>
                                             </div>
                                             <div className="contact-info">
-                                                <p>+65 xxx xxx</p>
+                                                <p>+65 6896 9933</p>
                                             </div>
                                         </div>
                                         <div className="single-contact-info">
@@ -30,7 +30,7 @@ const FooterOne = () => {
                                                 <i className="fal fa-envelope"></i>
                                             </div>
                                             <div className="contact-info">
-                                                <p>info@example.com</p>
+                                                <p>updating</p>
                                             </div>
                                         </div>
                                         <div className="single-contact-info">
@@ -38,7 +38,7 @@ const FooterOne = () => {
                                                 <i className="fal fa-map-marker-alt"></i>
                                             </div>
                                             <div className="contact-info">
-                                                <p>Singapore Address</p>
+                                                <p>21 Toh Guan Rd E, #06-03, Singapore 608609</p>
                                             </div>
                                         </div>
                                     </div>

@@ -12,7 +12,7 @@ const CtaOne = () => {
                         </div>
                     </div>
                     <div className="col-md-4 text-center text-md-end">
-                        <div className="theme-btn border-btn text-center"><a href="https://wa.me/">Whatsapp</a></div>
+                        <div className="theme-btn border-btn text-center"><a href="https://wa.me/">Call us</a></div>
                     </div>
                 </div>
             </div>

@@ -53,7 +53,7 @@ const ContactPageContents = () => {
                                 </div>
                                 <div className="text">
                                     <span>Email Us</span>
-                                    <h5>info@example.com</h5>
+                                    <h5>updating</h5>
                                 </div>
                             </div>
                             <div className="single-info">
@@ -62,7 +62,7 @@ const ContactPageContents = () => {
                                 </div>
                                 <div className="text">
                                     <span>Call Us</span>
-                                    <h5>+65 xxx xxx</h5>
+                                    <h5>+65 6896 9933</h5>
                                 </div>
                             </div>
                             <div className="single-info">
@@ -71,7 +71,7 @@ const ContactPageContents = () => {
                                 </div>
                                 <div className="text">
                                     <span>Location</span>
-                                    <h5>Singapore</h5>
+                                    <h5>21 Toh Guan Rd E, #06-03, Singapore 608609</h5>
                                 </div>
                             </div>
                         </div>

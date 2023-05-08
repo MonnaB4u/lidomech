@@ -20,8 +20,8 @@ const OffsetMenu = ({offset, handleOffset}) => {
                 <div className="offset-menu-section">
                     <h3>Contact Info</h3>
                     <ul>
-                        <li><span><i className="fal fa-map"></i></span>Rock St 12, Newyork City, USA</li>
-                        <li><span><i className="fal fa-phone"></i></span>(000) 000-000-0000</li>
+                        <li><span><i className="fal fa-map"></i></span>21 Toh Guan Rd E, #06-03, Singapore 608609</li>
+                        <li><span><i className="fal fa-phone"></i></span>(65) 6896 9933</li>
                         <li><span><i className="fal fa-envelope"></i></span>info@example.com</li>
                         <li><span><i className="fal fa-clock"></i></span>Week Days: 09.00 to 18.00</li>
                         <li><span><i className="fal fa-clock"></i></span>Sunday: Closed</li>

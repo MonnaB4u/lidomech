@@ -19,7 +19,7 @@ const ServicesOne = () => {
                     servicesOneData.map((data) => (
                         <div className="col-md-6 col-12 col-lg-4 mt-30" key={data.id}>
                             <div className="single-service-box style-1">
-                                {/* <div className="service-bg bg-cover" style={{backgroundImage: `url(${data.bg})`}}></div> */}
+                                <div className="service-bg bg-cover" style={{backgroundImage: `url(${data.bg})`}}></div>
                                 <div className="icon">
                                     <i className={`flaticon-${data.icon}`}></i>
                                 </div>
