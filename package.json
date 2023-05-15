@@ -1,5 +1,6 @@
 {
-  "name": "busico",
+  "name": "lidomech",
+  "homepage": "https://lidomech.com",
   "version": "1.0",
   "private": true,
   "dependencies": {

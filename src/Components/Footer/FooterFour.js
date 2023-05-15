@@ -16,7 +16,7 @@ const FooterFour = () => {
                                             <a href="#">(+88) 587 - 365 - 202</a>
                                         </li>
                                         <li>
-                                            <a href="#">info@example.com</a>
+                                            <a href="#">admin@lidomech.com</a>
                                         </li>
                                         <li>
                                             <a href="#">Green Road, Street Park, New York, USA - 579542</a>

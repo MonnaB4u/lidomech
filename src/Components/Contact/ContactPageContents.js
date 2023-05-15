@@ -53,7 +53,7 @@ const ContactPageContents = () => {
                                 </div>
                                 <div className="text">
                                     <span>Email Us</span>
-                                    <h5>updating</h5>
+                                    <h5>admin@lidomech.com</h5>
                                 </div>
                             </div>
                             <div className="single-info">

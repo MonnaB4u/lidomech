@@ -12,7 +12,7 @@ const ServicesOne = () => {
                             <span>02. Featured Service</span>
                             <h2>What We Offer You</h2>
                         </div>
-                        <p>Our promise as a contractor is to build strong community value into every projects</p>
+                       
                     </div>
                 </div>
                 {

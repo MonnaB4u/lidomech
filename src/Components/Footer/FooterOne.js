@@ -30,7 +30,7 @@ const FooterOne = () => {
                                                 <i className="fal fa-envelope"></i>
                                             </div>
                                             <div className="contact-info">
-                                                <p>updating</p>
+                                                <p>admin@lidomech.com</p>
                                             </div>
                                         </div>
                                         <div className="single-contact-info">

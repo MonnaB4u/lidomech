@@ -30,7 +30,7 @@ const FooterTwo = () => {
                                         <i className="fal fa-envelope"></i>
                                     </div>
                                     <div className="contact-info">
-                                        <p>info@example.com</p>
+                                        <p>admin@lidomech.com</p>
                                         <p>info@webexample.com</p>
                                     </div>
                                 </div>

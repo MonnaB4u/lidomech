@@ -27,7 +27,7 @@ const MobileMenu = ({mobileMenu, handleMobileMenu}) => {
         </nav>
 
         <div className="action-bar">
-            <a href="mailto:info@example.com"><i className="fal fa-envelope"></i>info@webmail.com</a>
+            <a href="mailto:admin@lidomech.com"><i className="fal fa-envelope"></i>info@webmail.com</a>
             <a href="tel:123-456-7890"><i className="fal fa-phone"></i>987-098-098-09</a>
             <Link to='#' className="d-btn theme-btn">Whatsapp Us</Link>
         </div>

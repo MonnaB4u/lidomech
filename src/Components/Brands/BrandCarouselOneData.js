@@ -4,7 +4,7 @@ import brand2 from '../../assets/img/brand-logo/b2.png';
 import brand3 from '../../assets/img/brand-logo/3.png';
 import brand4 from '../../assets/img/brand-logo/4.png';
 import brand5 from '../../assets/img/brand-logo/5.png';
-
+import brand6 from '../../assets/img/brand-logo/6.png';
 
 const brandCarouselOneData = [
     {
@@ -36,7 +36,12 @@ const brandCarouselOneData = [
         brand: brand5,
         name: 'Google'
     },
-    
+
+    {
+        id: uuidv4(),
+        brand: brand6,
+        name: 'Google'
+    },
 ]
 
 export default brandCarouselOneData;

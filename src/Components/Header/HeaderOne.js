@@ -61,7 +61,7 @@ const HeaderOne = () => {
                     </ul>
                 </div>
                 <div className="header-right-elements d-flex align-items-center justify-content-between">
-                    <Link to="#" className="theme-btn d-none d-sm-block">Get Free Quote</Link>
+                    {/* <Link to="#" className="theme-btn d-none d-sm-block">Get Free Quote</Link> */}
                     <span onClick={handleOffset} className="side-menu-toggle d-none d-xl-block"><i className="fal fa-bars"></i></span>
                     <div className="d-inline-block ms-4 d-xl-none">
                         <div className="mobile-nav-wrap">                    

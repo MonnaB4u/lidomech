@@ -7,7 +7,7 @@ const HeaderTwoTop = () => {
                 <div className="row">
                     <div className="col-lg-9 col-sm-9">
                         <ul className="top-left-content">
-                            <li><i className="flaticon-paper-plane"></i> Info@example.com</li>
+                            <li><i className="flaticon-paper-plane"></i> admin@lidomech.com</li>
                             <li><i className="flaticon-map"></i> Jones Street, New York, USA</li>
                         </ul>
                     </div>

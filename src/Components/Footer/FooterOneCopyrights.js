@@ -14,12 +14,12 @@ const FooterOneCopyrights = () => {
                         </div>
                     </div>
                     <div className="col-md-6 col-12">
-                        <div className="footer-menu mt-3 mt-md-0 text-center text-md-end">
+                        {/* <div className="footer-menu mt-3 mt-md-0 text-center text-md-end">
                             <ul>
                                 <li><Link to="#">Teams &#38; Conditions</Link></li>
                                 <li><Link to="#">Contact</Link></li>
                             </ul>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

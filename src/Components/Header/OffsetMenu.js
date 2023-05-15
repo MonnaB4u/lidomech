@@ -22,9 +22,7 @@ const OffsetMenu = ({offset, handleOffset}) => {
                     <ul>
                         <li><span><i className="fal fa-map"></i></span>21 Toh Guan Rd E, #06-03, Singapore 608609</li>
                         <li><span><i className="fal fa-phone"></i></span>(65) 6896 9933</li>
-                        <li><span><i className="fal fa-envelope"></i></span>info@example.com</li>
-                        <li><span><i className="fal fa-clock"></i></span>Week Days: 09.00 to 18.00</li>
-                        <li><span><i className="fal fa-clock"></i></span>Sunday: Closed</li>
+                        <li><span><i className="fal fa-envelope"></i></span>admin@lidomech.com</li>
                     </ul>
                 </div> 
                 {/* <div className="offset-menu-footer">

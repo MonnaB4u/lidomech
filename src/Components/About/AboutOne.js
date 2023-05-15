@@ -38,18 +38,15 @@ const AboutOne = ({pt}) => {
                                 <span>What we do</span>
                                 <h2>Transforming Offices, Powering Spaces</h2>
                             </div>
-                            <p>We are a long-established, building services and office improvements company. We have a wealth of experience working as building contractors on all kinds of projects, big and small, FILL IN 3 KEY SERVICES</p>
+                            <p>LIDO MECHANICAL & ELECTRICAL ENGINEERING PTE LTD, An established company since Year 1986 and located at 21 Toh Guan Road East.</p>
+                            <p> We are specialize in Electrical Power Distribution Design and Consultation, M&E installation for Commercial & Industrial, Facilities Management & Technical support and EMA Licensing for Electrical Installation.</p>
                         </div>
                         <div className="tab-content-block">
                             <ul className="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li className="nav-item" role="presentation">
-                                    <button className="nav-link active" id="pills-technology-tab" data-bs-toggle="pill" data-bs-target="#pills-technology" type="button" role="tab" aria-controls="pills-technology" aria-selected="true">Electrical Engineering Services</button>
-                                </li>
-                                <li className="nav-item" role="presentation">
-                                    <button className="nav-link" id="pills-materials-tab" data-bs-toggle="pill" data-bs-target="#pills-materials" type="button" role="tab" aria-controls="pills-materials" aria-selected="false">Mechanical Engineering Services</button>
-                                </li>
-                                <li className="nav-item" role="presentation">
-                                    <button className="nav-link" id="pills-approved-tab" data-bs-toggle="pill" data-bs-target="#pills-approved" type="button" role="tab" aria-controls="pills-approved" aria-selected="false">ACMV & Fire Protection & Plumbling Services</button>
+                                    <p>- Electrical Engineering Services</p>
+                                    <p>- Mechanical Engineering Services</p>
+                                    <p>- ACMV & Fire Protection & Plumbling Services</p>
                                 </li>
                             </ul>
                             <div className="tab-content" id="pills-tabContent">
