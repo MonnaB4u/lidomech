@@ -7,11 +7,11 @@ import brand5 from '../../assets/img/brand-logo/5.png';
 import brand6 from '../../assets/img/brand-logo/6.png';
 
 const brandCarouselOneData = [
-    {
-        id: uuidv4(),
-        brand: brand1,
-        name: 'Google'
-    },
+    // {
+    //     id: uuidv4(),
+    //     brand: brand1,
+    //     name: 'Google'
+    // },
 
     {
         id: uuidv4(),
